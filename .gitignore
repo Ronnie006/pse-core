@@ -1,0 +1,11 @@
+target
+mvnw.cmd
+.apt_generated
+.mvn
+.settings
+target
+.classpath
+.factorypath
+.project
+mvnw
+/src/main/resources/static/bower_components
